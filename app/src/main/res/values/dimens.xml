@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_size">38sp</dimen>
+    <dimen name="subheader_txtsize">18sp</dimen>
+    <dimen name="subject_card_redius">22dp</dimen>
+    <dimen name="subject_card_elev">10dp</dimen>
+    <dimen name="video_card_redius">22dp</dimen>
+    <dimen name="video_card_elev">0dp</dimen>
+    <dimen name="subject_icon_margin">20dp</dimen>
+    <dimen name="max_thumb_width">200dp</dimen>
+    <dimen name="max_thumb_height">112dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Moallem</string>
+    <string name="moallem_txt">Moallem</string>
+    <string name="c_d_menu_ic">Menu Icon</string>
+    <string name="subject_txtview">Subjects</string>
+    <string name="subject_image">Subject Image</string>
+    <string name="welcome_txt">Welcome Back! \nContinue Learning?</string>
+    <string name="cd_playvideo_ic">Play Video Icon</string>
+    <string name="cd_video_thum_ic">Video Thumbnail</string>
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
